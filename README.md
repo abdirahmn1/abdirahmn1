@@ -1,6 +1,6 @@
 # Hi 👋 I'm Abdirahman Noor
 
-I'm an open source contributor, Full Stack Software developer and content creator building user-centric web & mobile applications and experiences. I help streamline and automate business workflows with `</code>`. You'll also find me writing technical blogs [here](https://blog.abdirahman.page) 😊
+I'm a Full Stack Software developer, open source contributor and content creator building user-centric web & mobile applications and experiences. I help streamline and automate business workflows with `</code>`. You'll also find me writing technical blogs [here](https://blog.abdirahman.page) 😊
 
 
 ---
