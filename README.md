@@ -1,7 +1,17 @@
 # Hi 👋 I'm Abdirahman Noor
 
-I'm a Full Stack Software developer, open source contributor and content creator building user-centric web & mobile applications and experiences. I help streamline and automate business workflows with `</code>`. You'll also find me writing technical blogs [here](https://blog.abdirahman.page) 😊
+I'm a Full Stack Software developer, open source contributor and content creator.
 
+I build:
+  - 🌐 Web applications
+  - 📱 Mobile applications (React Native)
+  - ⚙️ Backends and APIs
+
+Recent contributions include:
+ - 🔒 vulnerability fixes for [Transloadit](https://transloadit.com)
+ - 💻 code contributions to [ts-rest](https://github.com/ts-rest/ts-rest)
+
+You'll also find me writing technical blogs [here](https://blog.abdirahman.page) 😊
 
 ---
 
