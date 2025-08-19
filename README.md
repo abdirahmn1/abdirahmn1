@@ -1,10 +1,10 @@
-# Hi 👋 I'm Abdirahman Noor
+# Hi 👋 I'm Abdirahman Ali
 
 I'm a Full Stack Software developer, open source contributor and content creator.
 
 I build:
   - 🌐 Web applications
-  - 📱 Mobile applications (React Native)
+  - 📱 Mobile applications (IOS & Android with React Native)
   - ⚙️ Backends and APIs
 
 Recent contributions include:
