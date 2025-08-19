@@ -1,4 +1,4 @@
-# Hi 👋 I'm Abdirahman Ali
+# Hi 👋 I'm Abdirahman Noor
 
 I'm a Full Stack Software developer, open source contributor and content creator.
 
