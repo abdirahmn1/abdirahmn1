@@ -8,7 +8,7 @@ I build:
   - ⚙️ Backends and APIs
 
 Recent contributions include:
- - 🔒 vulnerability fixes for [Transloadit](https://transloadit.com)
+ - 🔒 vulnerability disclosures for [Transloadit](https://transloadit.com/security/halloffame)
  - 💻 code contributions to [ts-rest](https://github.com/ts-rest/ts-rest) (an open source RPC library)
 
 You'll also find me writing technical blogs [here](https://blog.abdirahman.page) 😊
